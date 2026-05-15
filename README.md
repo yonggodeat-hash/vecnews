@@ -62,6 +62,4 @@ python3 -m pip install -r requirements-ml.txt
 
 ## 发布说明
 
-- 本仓库已移除本地缓存和硬编码 API key，密钥请通过 `.env` 或环境变量管理。
-- `.gitignore` 会排除 `__pycache__`、`.env`、本地 IDE/Claude 配置、训练 checkpoint、日志和轨迹数据。
-- 当前工作树内容控制在约 1M，适合直接发布到 GitHub。
+- 感谢googledeepmiand前负责人sliver的论文。
